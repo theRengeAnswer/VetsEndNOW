@@ -5,7 +5,7 @@
     "name": "VetEndsNOW",
     "version": "0.1",
     "icons": {
-      "48": "untitled.png"
+      "48": "1.png"
     },
   
     "content_scripts": [
