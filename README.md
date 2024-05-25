@@ -1,0 +1,1 @@
+This is a simple Firefox plugin that gets rid of listings for vet jobs on Indeed.com. I do not quite understand why, but even when telling the system you are not qualified and uninterested for such jobs, they still push listings for vets. To bring an end to this reign of terror that conspires to mildly infuriate job hunters. 
